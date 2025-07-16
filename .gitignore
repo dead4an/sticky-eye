@@ -194,6 +194,4 @@ cython_debug/
 .cursorindexingignore
 
 # local files
-images
-video
-checkpoints
+*.mp4
